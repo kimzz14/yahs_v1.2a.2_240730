@@ -19,4 +19,7 @@ fi
 #
 #conda install samtools
 #bioconda/linux-64::samtools-1.20-h50ea8bc_1
+#
+#conda install openjdk
+#conda-forge/linux-64::openjdk-22.0.1-hb622114_0
 ##################################################################################
