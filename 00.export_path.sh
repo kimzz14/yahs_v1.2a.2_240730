@@ -1,14 +1,5 @@
-WorkingDir=
+source activate yahs_v1.2a.2_240730
 
-##################################################################################
-CurrentDir=$(readlink -f .)
-if [ $CurrentDir = $WorkingDir ]
-then
-        echo "Same"
-        source activate yahs_v1.2a.2_240730
-else
-        echo "Diff"
-fi
 ##################################################################################
 #conda create -n yahs_v1.2a.2_240730
 #
